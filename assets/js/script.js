@@ -39,7 +39,7 @@ const pelicula = new Reproductor ("https://www.youtube.com/embed/5PSNL1qE6VY", "
 pelicula.playMultimedia()
 pelicula.setInicio(7);
 
-const musica = new Reproductor ("https://www.youtube.com/embed/OCZIzzQpJUw", "musica")
+const musica = new Reproductor ("https://www.youtube.com/embed/fRAA3qv7aNE", "musica")
 musica.playMultimedia()
 musica.setInicio(5);
 
